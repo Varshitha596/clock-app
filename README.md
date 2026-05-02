@@ -1,16 +1,38 @@
-# React + Vite
+# 🕒 Clock App Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Clock Web App built using React (Vite).  
+This project displays the current time in real-time with a clean and minimal UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
+👉 https://clock-app-seven-sage.vercel.app
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Features
 
-## Expanding the ESLint configuration
+⚡ Real-time digital clock  
+⏱️ Updates every second automatically  
+🎨 Clean and minimal UI design  
+📱 Fully responsive for all devices  
+🌙 Lightweight and fast performance  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- React (Vite)
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+---
+
+## 📂 Project Setup
+
+To run this project locally:
+
+```bash
+npm install
+npm run dev
